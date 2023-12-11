@@ -10,7 +10,7 @@
 
 окрываем новый проект в IDE
 
-в терминале git clone https://github.com/albinadesign/F4-Recipes.git
+в терминале git clone https://github.com/albinadesign/F4-New.git
 
 cd F4-New
 
