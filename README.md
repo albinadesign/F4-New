@@ -32,7 +32,14 @@ npm i
 
 npm start
 
-Запускается проект по адресу http://localhost:3000/ 
+
+Сайт запускается по адресу http://localhost:3000/
+
+Swagger  запускается по адресу http://localhost:8000/api/swagger/
+
+Документация скачивается по адресу http://localhost:8000/api/swagger.json 
+
+
 
 ![image](https://github.com/albinadesign/F4-New/assets/117900508/23934795-6212-4cc3-9dc9-71aae2d69666)
 
